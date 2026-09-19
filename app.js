@@ -1,0 +1,1 @@
+async function updateStatus(id,status){const r=await fetch('/api/status/'+id,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({status})});if(r.ok)location.reload();else alert('Status update failed');}
