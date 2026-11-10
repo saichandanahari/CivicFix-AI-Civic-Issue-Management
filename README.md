@@ -86,7 +86,7 @@ Installation and Setup
 
 1. Clone the repository
 
-git clone https://github.com/YOUR-USERNAME/CivicFix-AI.git
+git clone https://github.com/saichandanahari/CivicFix-AI-Civic-Issue-Management.git
 
 2. Navigate to the project directory
 
