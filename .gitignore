@@ -1,6 +1,14 @@
-venv/
+# Database
+civicfix.db
+
+# Environment variables
+.env
+
+# Python
 __pycache__/
 *.pyc
-.env
-civicfix.db
+.venv/
+
+# Uploaded files
 static/uploads/*
+!static/uploads/.gitkeep
